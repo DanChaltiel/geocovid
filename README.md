@@ -32,7 +32,7 @@ Le code génère ces GIFs:
 
 ![anim deces](output/covid_roll7_deces_100k_x1.gif)
 
-### Moyenne mobile sur 7 jours du **total des décès** pour 100 000 habitants, **depuis le début de l'épidémie** :
+#### Moyenne mobile sur 7 jours du **total des guérisons** pour 100 000 habitants, **depuis le début de l'épidémie** :
 
 ![anim gueris](output/covid_roll7_gueris_100k_x1.gif)
 
