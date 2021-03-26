@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+_archives
+*archives
+images*
+test_sources.R
+*.zip
+*.url
